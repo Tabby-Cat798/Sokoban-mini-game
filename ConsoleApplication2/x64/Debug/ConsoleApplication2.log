@@ -1,0 +1,6 @@
+﻿  database.cpp
+c:\users\cat\source\repos\推箱子\consoleapplication2\database.cpp(82): warning C4474: printf: 格式字符串中传递的参数太多
+  c:\users\cat\source\repos\推箱子\consoleapplication2\database.cpp(82): note: 占位符和其参数预计 0 可变参数，但提供的却是 1 参数
+  推箱子.cpp
+  正在生成代码...
+  ConsoleApplication2.vcxproj -> C:\Users\Cat\source\repos\推箱子\x64\Debug\推箱子.exe
